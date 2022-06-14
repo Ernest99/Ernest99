@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ernest Ghansah
 - 👀 I’m interested in web development; Html,css,javascript,bootstrap,jquery.
-- 🌱 I’m currently learning reactjs,php,django
+- 🌱 I’m currently learning reactjs, UI/UX design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ernestghansah.netlify.app
 
